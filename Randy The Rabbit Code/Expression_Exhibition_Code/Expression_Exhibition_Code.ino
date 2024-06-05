@@ -18,14 +18,13 @@
  */
 
 
-
-
 /*  ---------------------------------------Randy the Rabbit--------------------------------------------------
  *  by KiriAnn Rodenburg 
 
  This is the code to be used in the exhibition environment and when filming footage to the 
  animatronic games-master Randy the Rabbit working. This code has been adapted to overcome 
- the servo feedback issues I was having in the Final_Expression_Code. 
+ the servo feedback issues I was having in the Final_Expression_Code:
+ https://github.com/KR22041838/MSc-Final-Project/blob/main/Randy%20The%20Rabbit%20Code/Final_Expression_Code/Final_Expression_Code.ino
 
  To get round this issue, I have combined the motion of the eyes and rotation of the eyebrows,
  assigning it to one joystick instead of being controlled by two separate joysticks. 
