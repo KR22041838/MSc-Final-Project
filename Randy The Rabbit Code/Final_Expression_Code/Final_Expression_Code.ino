@@ -18,8 +18,6 @@
  */
 
 
-
-
 /* ---------------------------------------Randy the Rabbit--------------------------------------------------
  *  by KiriAnn Rodenburg
  
@@ -32,7 +30,9 @@
  the eyebrow connect to servo 'ebServo2' will start to jitter, rotate on its own or stop rotating at all.
 
  I have not managed to fix this in time so the code used for the exhibition has been adapted to 
- get round this issue. See code: Expression_Exhibition_Code. 
+ get round this issue. 
+ See code Expression_Exhibition_Code: 
+ https://github.com/KR22041838/MSc-Final-Project/tree/main/Randy%20The%20Rabbit%20Code/Expression_Exhibition_Code
 
  ------------------------------------------------------------------------------------------------------------
  */
